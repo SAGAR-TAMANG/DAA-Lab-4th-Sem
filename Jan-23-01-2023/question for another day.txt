@@ -1,0 +1,22 @@
+2. Write a C program which will find out the consecutive X numbers from an array of size N.
+
+For Example: 
+if the inputs are
+- length > 5 
+- numbers are > 10, 30, 40, 20, 50
+
+The output will be "Nothing Found"
+
+For Example 2:
+if the inputs are:
+- length > 5
+- numbers > 2, 3, 4, 9, 8
+
+The output will be: 2, 3, 4
+
+For Example 3:
+if the inputs are:
+- length > 8
+- numbers > 1, 9, 8, 5, 6, 4, 19, 2
+
+The output will be: 5, 6
